@@ -1,6 +1,7 @@
 ### Hello World.
 
 I'm Muhammad Farid Zia
+
 🇮🇩 • Frontend. /frən(t) ˈend/ Engineer who like to write about personal opinions.
 
 Every day most spend time with things related to frontend. 
