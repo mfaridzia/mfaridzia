@@ -2,8 +2,9 @@
 
 I'm Muhammad Farid Zia.
 
-🇮🇩 • /frən(t) ˈend Engineer who like to write about personal opinions.
+🇮🇩 • Software Engineer who likes to write about personal opinions and things I learn along the way.
 
-Every day most spend time with things related to frontend. 
-You can find me on [Twitter](https://twitter.com/muhfaridzia), [FB](https://web.facebook.com/MuhFaridZia), [LinkedIn](https://www.linkedin.com/in/muhfaridzia/) and [Medium](https://medium.com/@MFaridZia)
+Most of my days are spent building software, exploring new technologies, and solving problems with code.
+
+You can find me on [LinkedIn](https://www.linkedin.com/in/muhfaridzia) and [muhfaridzia.live](https://muhfaridzia.live)
 
